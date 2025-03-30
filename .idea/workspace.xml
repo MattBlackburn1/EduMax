@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164a9a0d-b07c-457e-a1b5-f1985df255aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/EduMax_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/placeholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ab101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nextunit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resources.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reviews.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/ab101.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +45,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.ab101.html.executor": "Run",
     "JavaScript Debug.template.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/tm252demo/pages",
+    "last_opened_file_path": "C:/tm252demo/css",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,8 +63,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\tm252demo\pages" />
+      <recent name="C:\tm252demo\css" />
       <recent name="C:\tm252demo\images" />
+      <recent name="C:\tm252demo\pages" />
       <recent name="C:\tm252demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -81,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1743326105481</updated>
       <workItem from="1743326106704" duration="5352000" />
-      <workItem from="1743339600365" duration="2241000" />
+      <workItem from="1743339600365" duration="2869000" />
+      <workItem from="1743358549935" duration="5458000" />
     </task>
     <servers />
   </component>
